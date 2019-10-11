@@ -4,6 +4,8 @@ A project that is at an early stage of development.
 
 An ambitious attempt to make a nagios wizard work with python scripts and use nagios' api.
 
+This Nagios XI wizard allows you to bulk monitoring network switch and router.
+
 Requirements: Python3.6 and packages: netmiko , pandas , requests , xlrd must be installed on your nagios server.
 
 Commands:
