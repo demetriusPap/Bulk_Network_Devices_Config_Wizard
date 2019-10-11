@@ -6,19 +6,20 @@ Requirements: Python3.6 and packages: netmiko , pandas , requests , xlrd must be
 
 Commands:
 
-' sudo yum -y install https://centos7.iuscommunity.org/ius-release.rpm '
+    ' sudo yum -y install https://centos7.iuscommunity.org/ius-release.rpm '
 
-' sudo yum -y install python36u '
+    ' sudo yum -y install python36u '
 
-' sudo yum -y install python36u-pip '
+    ' sudo yum -y install python36u-pip '
 
-' sudo pip3.6 install netmiko ' 
+    ' sudo pip3.6 install netmiko ' 
 
-' sudo pip3.6 install pandas '
+    ' sudo pip3.6 install pandas '
 
-' sudo pip3.6 install requests '
+    ' sudo pip3.6 install requests '
 
-' sudo pip3.6 install xlrd '
+    ' sudo pip3.6 install xlrd '
+    
 Place folder "toolbox" at the root directory of your nagios server (/toolbox).
 
 Edit file /toolbox/newdata.py according to your credentials.
