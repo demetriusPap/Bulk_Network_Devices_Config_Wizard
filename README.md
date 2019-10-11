@@ -1,4 +1,4 @@
-Part of a project that is at an early stage of development.
+A project that is at an early stage of development.
 
 An ambitious attempt to make a nagios wizard work with python scripts and use nagios' api.
 
