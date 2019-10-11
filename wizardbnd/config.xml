@@ -1,0 +1,11 @@
+<configwizard>  
+	<templates> 
+		<template filename="wizardbnd.cfg" /> 
+	</templates>
+	<plugins>
+	<plugin filename="env"/>
+	</plugins>
+	<logos>
+		<logo filename="wizardbnd.jpg" /> 
+	</logos>
+</configwizard> 
