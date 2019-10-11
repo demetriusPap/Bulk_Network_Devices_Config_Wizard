@@ -20,6 +20,3 @@ Commands:
 
     ' sudo pip3.6 install xlrd '
     
-Place folder "toolbox" at the root directory of your nagios server (/toolbox).
-
-Edit file /toolbox/newdata.py according to your credentials.
