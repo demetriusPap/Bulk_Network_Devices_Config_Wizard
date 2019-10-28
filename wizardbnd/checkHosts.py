@@ -14,9 +14,9 @@ import sys
 
 my_file = Path("/usr/local/nagiosxi/html/config/uploads/FILE.xlsx")
 
-community = 'testnagiosxi' #html input
-serverName='testnagios'  #html input ?
 
+serverName=db.serverName  
+community = db.serverList[serverName]['comm']
 
 thread_list = []
 pingResult = []
